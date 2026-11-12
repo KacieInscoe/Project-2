@@ -1,6 +1,6 @@
 # Arduino Distance Tracker
 
-A project that measures distance using an ultrasonic sensor, lights up LEDs based on proximity, and logs data to a computer using Python.
+This is a project that measures distance using an ultrasonic sensor, lights up LEDs based on proximity, and logs data to a computer using Python.
 
 ## Hardware Setup
 - Arduino Uno
